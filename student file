@@ -1,0 +1,7 @@
+create database s;
+use s;
+create table s(
+sid orimary key,
+name varchar(30),
+age int 
+);
